@@ -1,4 +1,4 @@
-== Diacode's Holidays
+== Pixel2HTML's Holidays
 The goal of the app is to scratch one of our personal itches as a remote team: handling our holidays.
 
 === Stack
@@ -6,11 +6,11 @@ The goal of the app is to scratch one of our personal itches as a remote team: h
 * React.js
 * Redux as Flux implementation
 * Webpack for js management
-* PostgreSQL
+* MySQL
 
 === Installation instructions
 
-    $ git clone git@github.com:diacode/holidays.git
+    $ git clone git@github.com:pixel2html/holidays.git
     $ bundle install
     $ npm install -g webpack
     $ npm install
